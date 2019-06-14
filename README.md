@@ -3,7 +3,7 @@
 					AKANKSHA MAAHAJAN
 					112074564
 
-HOW TO RUN:
+How to Run:
 
     1. cd fs/bkpfs from hw2
     2. run install_modules.sh
@@ -17,7 +17,7 @@ HOW TO RUN:
     Assumptions to run test scripts: under TESTSCRIPTS section
 -------------------------------------------------------------------------------------------------------------------------------------------             
 
-DESIGN :
+Design:
 
     CREATION OF BACKUP FILES:
 
@@ -107,7 +107,7 @@ DESIGN :
 
    ----------------------------------------------------------------------------
 
-   RESTORE OF BACKUP FILES:
+   RESTORE BACKUP FILES:
    
     command : ./bkptcl -r NEW/OLD/version_num /mnt/bkpfs/program.txt
         NOTE: * NEW, OLD in capital letters is supported.
