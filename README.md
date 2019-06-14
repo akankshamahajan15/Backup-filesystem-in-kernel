@@ -3,7 +3,7 @@
 					AKANKSHA MAAHAJAN
 					112074564
 
-How to Run:
+Steps to Run:
 
     1. cd fs/bkpfs from hw2
     2. run install_modules.sh
