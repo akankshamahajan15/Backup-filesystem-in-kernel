@@ -3,6 +3,22 @@
 					AKANKSHA MAAHAJAN
 					112074564
 
+PROBLEM STATEMENT : 
+
+When you modify a file in traditional Unix file systems, there's no way to undo or recover a previous version of that file.
+There's also no way to get older versions of the same file.  Being able to access a history of versions of file changes is
+very useful, to recover lost or inadvertent changes. Your task would be to create a file system that automatically creates
+backup versions of files, and also allows you to view versions as well as recover them.
+This Backup File System (bkpfs) will have to handle several tasks via policies that you will have to design,
+justify your design, implement, and test: backup, version access, and retention policies.
+1. When to backup.
+2. What to backup.
+3. where to store backups
+4. Visibility policy
+5. Retention policy
+6. Version management
+7. How to backup.
+
 STEPS TO RUN:
 
     1. cd fs/bkpfs from hw2
